@@ -8,6 +8,8 @@ Resources ever solidity dev should have
 
 [Smartbooks by dapp world](https://dapp-world.com/smartbooks) - Find really useful smart contracts and publish some yourself
 
+[Ethereum blockchain developer](https://ethereum-blockchain-developer.com/)
+
 ## Youtube channels
 
 [Eat the blocks](https://www.youtube.com/c/EatTheBlocks)
