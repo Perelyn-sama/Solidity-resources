@@ -19,3 +19,5 @@ Resources ever solidity dev should have
 [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
 
 https://eips.ethereum.org/
+
+https://jeancvllr.medium.com/solidity-tutorial-all-about-comments-bc31c729975a
