@@ -17,3 +17,5 @@ Resources ever solidity dev should have
 [Dapps university](https://www.youtube.com/c/DappUniversity)
 
 [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+
+https://eips.ethereum.org/
