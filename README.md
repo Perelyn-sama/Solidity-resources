@@ -21,3 +21,5 @@ Resources ever solidity dev should have
 https://eips.ethereum.org/
 
 https://jeancvllr.medium.com/solidity-tutorial-all-about-comments-bc31c729975a
+
+https://www.useweb3.xyz/
